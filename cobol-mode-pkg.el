@@ -1,2 +1,0 @@
-;; Generated package description from cobol-mode.el  -*- no-byte-compile: t -*-
-(define-package "cobol-mode" "1.1.0.20240505.191317" "Mode for editing COBOL code" '((cl-lib "0.5")) :commit "c8af9effa96666f0b74812f5d07ab7ba60ae4214" :url "https://elpa.gnu.org/packages/cobol-mode.html" :authors '(("Edward Hart" . "edward.dan.hart@gmail.com")) :maintainer '("Kristofer Hjelmtorp" . "kristofer@hjelmtorp.se") :keywords '("languages"))
