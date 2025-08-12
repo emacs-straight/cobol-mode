@@ -1,2 +1,2 @@
 ;; Generated package description from cobol-mode.el  -*- no-byte-compile: t -*-
-(define-package "cobol-mode" "1.1.0.20250527.194517" "Mode for editing COBOL code" '((emacs "24.3")) :commit "1665f441ea3b48e7e2afcdeeb1161bb5b661312c" :authors '(("Edward Hart" . "edward.dan.hart@gmail.com")) :maintainer '("Kristofer Hjelmtorp" . "kristofer@hjelmtorp.se") :keywords '("languages") :url "https://git.sr.ht/~hjelmtech/cobol-mode")
+(define-package "cobol-mode" "1.1.0.20250810.203242" "Mode for editing COBOL code" '((emacs "24.3")) :commit "2428a0249d2059fadc7098d570fd79ed29f05b62" :authors '(("Edward Hart" . "edward.dan.hart@gmail.com")) :maintainer '("Kristofer Hjelmtorp" . "kristofer@hjelmtorp.se") :keywords '("languages") :url "https://git.sr.ht/~hjelmtech/cobol-mode")
