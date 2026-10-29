@@ -1,2 +1,2 @@
-;; Generated package description from cobol-mode.el  -*- no-byte-compile: t -*-
-(define-package "cobol-mode" "1.1.0.20250810.203242" "Mode for editing COBOL code" '((emacs "24.3")) :commit "2428a0249d2059fadc7098d570fd79ed29f05b62" :authors '(("Edward Hart" . "edward.dan.hart@gmail.com")) :maintainer '("Kristofer Hjelmtorp" . "kristofer@hjelmtorp.se") :keywords '("languages") :url "https://git.sr.ht/~hjelmtech/cobol-mode")
+;; Generated package description from cobol-mode.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "cobol-mode" "1.1.0.20261027.14" "Mode for editing COBOL code" '((emacs "24.3")) :commit "a6d0b14979585982f181dc6a271ee538def72bac" :authors '(("Edward Hart" . "edward.dan.hart@gmail.com")) :maintainer '("Kristofer Hjelmtorp" . "kristofer@hjelmtorp.se") :keywords '("languages") :url "https://git.sr.ht/~hjelmtech/cobol-mode")
